@@ -1,0 +1,13 @@
+Commands to execute the Code:
+
+javac Tunnel.java - to compile the code
+java Tunnel - to execute the code.
+
+User input required :
+Topology: Select the number:
+For question number 3, the input will be 1.
+For question number 4, the input will be 2.
+
+GIve the bandwidth and the source and destination server for the two flow groups.
+
+The output gives the Tunnel group mappings and the fairshares.
